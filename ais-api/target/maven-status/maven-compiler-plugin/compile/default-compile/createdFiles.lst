@@ -1,0 +1,4 @@
+org/prashantpro/jaxrs/movie/ExceptionHttpStatusResolver.class
+org/prashantpro/jaxrs/movie/MovieLibrary.class
+org/prashantpro/jaxrs/movie/Movie.class
+org/prashantpro/jaxrs/movie/BusinessException.class
