@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="BtnStyle" parent="android:Theme">
+        <item name="android:backgroundTint">@color/colorButton</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+    </style>
+
+</resources>

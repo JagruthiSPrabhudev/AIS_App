@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/btn_TextReader"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal = "true"
+        android:layout_marginTop="100dp"
+        android:text="@string/btn_Text"
+        style="@style/BtnStyle"/>
+
+    <Button
+        android:id="@+id/btn_BarCodeReader"
+        style="@style/BtnStyle"
+        android:layout_width="150dp"
+        android:layout_marginTop="150dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/btn_BarCode"
+        />
+
+    <Button
+        android:id="@+id/btn_SavePic"
+        style="@style/BtnStyle"
+        android:layout_width="150dp"
+        android:layout_marginTop="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/btn_savePic"/>
+</RelativeLayout>
